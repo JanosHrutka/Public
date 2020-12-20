@@ -2,4 +2,4 @@ Full HD felbontásra kellett elkészíteni megadott tervek alapján.
 Mobil nézetre egy teljesen más dizájn készült.
 
 A megrendelő megváltoztatta a kérését miszerint a fullhd felbontást kellett átalakítani mobil nézetre is,
-melyet elkezdtem de végül a nem projekt törlése miatt nem lett befejezve.
+melyet elkezdtem de végül a projekt törlése miatt nem lett befejezve.
