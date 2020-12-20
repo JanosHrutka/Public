@@ -1,0 +1,1 @@
+Előre megadott terv alapján elkészíteni pixel pontosan és mobil nézetre is optimalizálva.
